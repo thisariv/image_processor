@@ -1,0 +1,6 @@
+/Users/rvladimir/ami-Vladimir-Rodin-thisarivson/tasks/image_processor/CMakeFiles/image_processor.dir
+/Users/rvladimir/ami-Vladimir-Rodin-thisarivson/tasks/image_processor/CMakeFiles/test_parser.dir
+/Users/rvladimir/ami-Vladimir-Rodin-thisarivson/tasks/image_processor/CMakeFiles/test_io.dir
+/Users/rvladimir/ami-Vladimir-Rodin-thisarivson/tasks/image_processor/CMakeFiles/test_controller.dir
+/Users/rvladimir/ami-Vladimir-Rodin-thisarivson/tasks/image_processor/CMakeFiles/edit_cache.dir
+/Users/rvladimir/ami-Vladimir-Rodin-thisarivson/tasks/image_processor/CMakeFiles/rebuild_cache.dir
